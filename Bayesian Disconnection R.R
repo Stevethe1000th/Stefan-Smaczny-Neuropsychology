@@ -1,4 +1,4 @@
-# Translation of Chris Sperber's code (see DOI: 10.17632/hdzptzz8r5.2) + 
+# Translation of Chris Sperber's code (see DOI: 10.17632/yjkr647mzb.2) + 
 # Bayesian analysis instead of frequentist permutation approach
 
 # This code calculates correlations of parcel-to-parcel disconnection values 
