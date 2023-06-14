@@ -1,0 +1,5 @@
+This folder contains scripts I wrote to analyse the association of brain damage with behaviour. So far it only contains one script, 
+which takes a matrix of disconnection values between two grey-matter brain areas and a behavioural table. 
+
+It calculates, for each individual disconnection, a Bayesian correlation analysis between disconnection and the behavioural variable. 
+It was used in https://doi.org/10.1016/j.neuroimage.2022.119840
